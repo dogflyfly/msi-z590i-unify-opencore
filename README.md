@@ -4,9 +4,9 @@ This repository contains the EFI content I used to run the latest OpenCore boot 
 # Hardware
 Items that could affect your config.plist (if different from yours, you might need to do a bit of reading and/or troubleshooting ):
 - MSI Z590i Unify Motherboard (obviously)
-- Intel 11700K CPU
-- XFX Speedster SWFT 210 Radeon RX 6600 (though thinking of upgrading)
-- WD Black SN750 High Performance NVMe M.2 Internal
+- Intel 10900K CPU
+- XFX Speedster SWFT 210 Radeon RX 6600XT (though thinking of upgrading)
+- WD Black SN550 High Performance NVMe M.2 Internal
 - WLAN: BCM94360NG (bought it Amazon - look it up)
 
 Items SHOULD not require config adjustment:
