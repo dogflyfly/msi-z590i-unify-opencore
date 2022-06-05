@@ -1,4 +1,4 @@
-# msi-z590i-unify-opencore
+# i910900K-msi-z590i-unify-opencore
 This repository contains the EFI content I used to run the latest OpenCore boot loader.  I'll add more details below, but for now - if you know what you're doing - feel free to play with the EFI folder
 
 # Hardware
